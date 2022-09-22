@@ -1,4 +1,4 @@
-#Blackjack Game
+# Blackjack Game
 ---
 This is a project in which I wanted to simulate as authentically as possible the game of blackjack as it is in real life. Thus, card shuffling and dealing the cards are similar to those in casinos. In addition, I implemented a "database" so that each user can see different statistics about what he played. So, in order to do that, you can only play if you are logged_in (***log_in***) and if you dont have an "account", you can create one (***register_user***). Once you are logged in, you can see your statistics (***user_info***), refill your balance (***deposit***), delete your account (***delete_user***), log out from your account (***log_out***) or you can start playing (***play***). 
 
