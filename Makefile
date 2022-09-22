@@ -22,3 +22,4 @@ game: ./include/list_fct.h ./include/utils.h ./src/game.c
 
 clean:
 	rm ./bin/*.o
+	rm main
